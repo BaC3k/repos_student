@@ -1,0 +1,37 @@
+﻿lab2_bez__nasl.obj : error LNK2005: "public: __thiscall Ellipse1::Ellipse1(int,int,int,int,int)" (??0Ellipse1@@QAE@HHHHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: __thiscall Ellipsoid::Ellipsoid(int,int,int,int,int,int)" (??0Ellipsoid@@QAE@HHHHHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: __thiscall Point::Point(int,int,int)" (??0Point@@QAE@HHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: __thiscall Segment::Segment(int,int,int,int,double)" (??0Segment@@QAE@HHHHN@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: double __thiscall Ellipse1::Area(void)" (?Area@Ellipse1@@QAENXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipse1::Clean2(void)" (?Clean2@Ellipse1@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipsoid::Clean3(void)" (?Clean3@Ellipsoid@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::Clean(void)" (?Clean@Segment@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipse1::Draw2(void)" (?Draw2@Ellipse1@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipsoid::Draw3(void)" (?Draw3@Ellipsoid@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::Draw(void)" (?Draw@Segment@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipse1::Expand2(int,int)" (?Expand2@Ellipse1@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipsoid::Expand3(int,int)" (?Expand3@Ellipsoid@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::Expand(int)" (?Expand@Segment@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Point::GetC(void)" (?GetC@Point@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: double __thiscall Segment::GetFi(void)" (?GetFi@Segment@@QAENXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Segment::GetRadius(void)" (?GetRadius@Segment@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Point::GetX(void)" (?GetX@Point@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Point::GetY(void)" (?GetY@Point@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Ellipse1::GetYRadius(void)" (?GetYRadius@Ellipse1@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: int __thiscall Ellipsoid::GetZRadius(void)" (?GetZRadius@Ellipsoid@@QAEHXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::Hide(void)" (?Hide@Point@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipse1::Move2(int,int)" (?Move2@Ellipse1@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipsoid::Move3(int,int)" (?Move3@Ellipsoid@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::Move(int,int)" (?Move@Segment@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::MoveTo(int,int)" (?MoveTo@Point@@QAEXHH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::PutColor(int)" (?PutColor@Point@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::PutFi(double)" (?PutFi@Segment@@QAEXN@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Segment::PutRadius(int)" (?PutRadius@Segment@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::PutX(int)" (?PutX@Point@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::PutY(int)" (?PutY@Point@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipse1::PutYRadius(int)" (?PutYRadius@Ellipse1@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Ellipsoid::PutZRadius(int)" (?PutZRadius@Ellipsoid@@QAEXH@Z) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: void __thiscall Point::Show(void)" (?Show@Point@@QAEXXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: "public: double __thiscall Ellipsoid::Vol(void)" (?Vol@Ellipsoid@@QAENXZ) єцх юяЁхфхыхэ т lab2v2_OOP.obj
+lab2_bez__nasl.obj : error LNK2005: _main єцх юяЁхфхыхэ т lab2v2_OOP.obj
+C:\Users\┬рё \source\repos\lab2v2_OOP\Debug\lab2v2_OOP.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх

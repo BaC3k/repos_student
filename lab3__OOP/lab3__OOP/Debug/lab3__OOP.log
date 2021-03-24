@@ -1,0 +1,4 @@
+﻿  lab3__OOP.cpp
+C:\Users\Вася\source\repos\lab3__OOP\lab3__OOP\lab3__OOP.cpp(119,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab3__OOP\lab3__OOP\lab3__OOP.cpp(119,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab3__OOP.vcxproj -> C:\Users\Вася\source\repos\lab3__OOP\Debug\lab3__OOP.exe

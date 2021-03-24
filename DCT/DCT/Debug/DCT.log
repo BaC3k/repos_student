@@ -1,0 +1,22 @@
+﻿  DCT.cpp
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(86,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(177,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(201,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(201,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(202,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(202,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(203,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(203,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(207,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(207,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(208,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(208,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(209,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(209,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(210,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(210,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(220,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(221,77): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(222,77): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\DCT\DCT\DCT.cpp(227,78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  DCT.vcxproj -> C:\Users\Вася\source\repos\DCT\Debug\DCT.exe

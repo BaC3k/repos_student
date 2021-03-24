@@ -1,0 +1,19 @@
+﻿  lab2v2_OOP.cpp
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(95,32): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(102,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(102,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ bar в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ ellipse в функции "public: void __cdecl Ellipse1::Draw2(void)" (?Draw2@Ellipse1@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ line в функции "public: void __cdecl Segment::Draw(void)" (?Draw@Segment@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ putpixel в функции "public: void __cdecl Point::Hide(void)" (?Hide@Point@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ getbkcolor в функции "public: void __cdecl Ellipse1::Clean2(void)" (?Clean2@Ellipse1@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ getcolor в функции "public: void __cdecl Ellipse1::Draw2(void)" (?Draw2@Ellipse1@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ getmaxx в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ getmaxy в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ setbkcolor в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ setcolor в функции "public: void __cdecl Ellipse1::Draw2(void)" (?Draw2@Ellipse1@@QEAAXXZ)
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ closegraph в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ grapherrormsg в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ graphresult в функции main
+lab2v2_OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ initgraph в функции main
+C:\Users\Вася\source\repos\lab2v2_OOP\x64\Debug\lab2v2_OOP.exe : fatal error LNK1120: неразрешенных внешних элементов: 14

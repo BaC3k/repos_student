@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:  static_cast: невозможно преобразовать "allocators::my_allocator<U,100>" в "allocators::my_allocator<U,100>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:             U=std::_Tree_node<std::pair<const int,int>,void *>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:             U=std::_Container_proxy
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,27): error C2440:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,1): message :  Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :  во время компиляции функции-члена класс шаблон "std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::~_Tree(void) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :             _Kty=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :             _Ty=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :             _Pr=std::less<void>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :             _Alloc=allocators::my_allocator<std::pair<const int,int>,100>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1210): message :         ]
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::~_Tree(void) noexcept"
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :         with
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :         [
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :             _Kty=int,
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :             _Ty=int,
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :             _Pr=std::less<void>,
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :             _Alloc=allocators::my_allocator<std::pair<const int,int>,100>
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(90): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :             _Kty=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :             _Ty=int,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :             _Pr=std::less<void>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :             _Alloc=allocators::my_allocator<std::pair<const int,int>,100>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\map(70): message :         ]
+C:\Users\Вася\source\repos\Andrew_test\Andrew_test\main.cpp(70): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "std::map<int,int,std::less<void>,allocators::my_allocator<std::pair<const int,int>,100>>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1214,25): error C2530:  _Alproxy: ссылки должны быть инициализированы
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1215,1): error C3536:  _Alproxy: не может использоваться до инициализации
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1215,9): error C2672:  "_Delete_plain": не найдена соответствующая перегруженная функция
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1215,1): error C2893:  Сбой при специализации функции-шаблона "void std::_Delete_plain(_Alloc &,_Alloc::value_type *const ) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1215,1): message :  Со следующими аргументами шаблона:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtree(1215,1): message :  "_Alloc=int"

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  lab2_KPO_cpp_2.cpp
+C:\Users\Вася\source\repos\lab2_KPO_cpp_2\lab2_KPO_cpp_2\lab2_KPO_cpp_2.cpp(44,6): warning C4101: tmp: неиспользованная локальная переменная
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab2_KPO_cpp_2.vcxproj -> C:\Users\Вася\source\repos\lab2_KPO_cpp_2\Debug\lab2_KPO_cpp_2.exe

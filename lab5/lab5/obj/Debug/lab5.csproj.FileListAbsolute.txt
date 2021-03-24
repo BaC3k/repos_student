@@ -1,0 +1,3 @@
+C:\Users\Вася\source\repos\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Вася\source\repos\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Вася\source\repos\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache

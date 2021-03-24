@@ -1,0 +1,20 @@
+﻿LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/LTCG"
+bgi.lib(winbgi.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в lab2v2_OOP.obj
+bgi.lib(winbgi.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в lab2v2_OOP.obj
+bgi.lib(winbgi.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+bgi.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в lab2v2_OOP.obj
+bgi.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в lab2v2_OOP.obj
+bgi.lib(drawing.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в lab2v2_OOP.obj
+bgi.lib(drawing.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в lab2v2_OOP.obj
+bgi.lib(winthread.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в lab2v2_OOP.obj
+bgi.lib(winthread.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в lab2v2_OOP.obj
+bgi.lib(file.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в lab2v2_OOP.obj
+bgi.lib(file.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в lab2v2_OOP.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+bgi.lib(winbgi.obj) : error LNK2001: неразрешенный внешний символ "__imp___invalid_parameter"
+bgi.lib(drawing.obj) : error LNK2001: неразрешенный внешний символ "__imp___invalid_parameter"
+bgi.lib(winthread.obj) : error LNK2001: неразрешенный внешний символ "__imp___invalid_parameter"
+bgi.lib(winbgi.obj) : error LNK2001: неразрешенный внешний символ "__imp___CrtDbgReportW"
+bgi.lib(drawing.obj) : error LNK2001: неразрешенный внешний символ "__imp___CrtDbgReportW"
+bgi.lib(winthread.obj) : error LNK2001: неразрешенный внешний символ "__imp___CrtDbgReportW"
+C:\Users\Вася\source\repos\lab2v2_OOP\Release\lab2v2_OOP.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

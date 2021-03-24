@@ -1,0 +1,5 @@
+﻿  lab11.cpp
+C:\Users\Вася\source\repos\lab11\lab11\lab11.cpp(29,19): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Вася\source\repos\lab11\lab11\lab11.cpp(76,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Вася\source\repos\lab11\lab11\lab11.cpp(49): warning C4172:  возвращение адреса локальной или временной переменной : a
+  lab11.vcxproj -> C:\Users\Вася\source\repos\lab11\Debug\lab11.exe

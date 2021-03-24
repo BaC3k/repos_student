@@ -1,0 +1,12 @@
+﻿  lab1_OOP.cpp
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(54,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(55,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(56,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(57,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(58,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(59,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(60,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(61,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(80,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab1_OOP\lab1_OOP\lab1_OOP.cpp(81,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab1_OOP.vcxproj -> C:\Users\Вася\source\repos\lab1_OOP\Debug\lab1_OOP.exe

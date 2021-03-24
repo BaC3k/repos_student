@@ -1,0 +1,70 @@
+﻿  Graphics.cpp
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(102,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(229,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(267,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(288,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(289,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(289,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(295,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(297,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(299,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(299,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(315,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(330,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(340,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(340,17): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(342,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(342,17): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(349,36): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(349,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(397,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(419,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(420,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(420,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(426,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(428,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(430,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(430,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(447,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(460,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(468,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(470,36): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(470,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(475,36): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(475,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(488,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(508,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(548,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(577,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(578,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(578,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(584,20): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(586,25): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(588,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(588,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(594,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(596,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(604,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(604,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(611,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(613,33): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(613,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(617,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(619,39): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(619,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(623,33): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(623,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(625,39): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(625,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(492,15): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(732,18): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(732,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(732,12): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(734,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вася\source\repos\Graphics\Graphics\Graphics.cpp(736,20): warning C4018: <: несоответствие типов со знаком и без знака
+Graphics.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutInitWithExit@12 в функции _glutInit_ATEXIT_HACK@8
+Graphics.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutCreateWindowWithExit@8 в функции _glutCreateWindow_ATEXIT_HACK@4
+Graphics.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutSetOption@8 в функции "public: void __thiscall Graphics::Graph_Draw1(int,char * * const)" (?Graph_Draw1@Graphics@@QAEXHQAPAD@Z)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x86\freeglut.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\Вася\source\repos\Graphics\Debug\Graphics.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

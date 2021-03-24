@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Вася\source\repos\Andrew_lab_bucket\Andrew_lab_bucket\main.cpp(252,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\Andrew_lab_bucket\Andrew_lab_bucket\main.cpp(293,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Andrew_lab_bucket.vcxproj -> C:\Users\Вася\source\repos\Andrew_lab_bucket\Debug\Andrew_lab_bucket.exe

@@ -1,0 +1,10 @@
+﻿  lab4_OOP.cpp
+C:\Users\Вася\source\repos\lab4_OOP\lab4_OOP\lab4_OOP.cpp(104,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab4_OOP\lab4_OOP\lab4_OOP.cpp(104,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+bgi.lib(dibutil.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(dibutil.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+bgi.lib(drawing.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(drawing.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+bgi.lib(file.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(file.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+bgi.lib(misc.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(misc.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+bgi.lib(winbgi.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(winbgi.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+bgi.lib(winthread.obj) : warning LNK4099: "bgi.pdb" PDB не найден с "bgi.lib(winthread.obj)" или на "C:\Users\Вася\source\repos\lab4_OOP\Debug\bgi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  lab4_OOP.vcxproj -> C:\Users\Вася\source\repos\lab4_OOP\Debug\lab4_OOP.exe

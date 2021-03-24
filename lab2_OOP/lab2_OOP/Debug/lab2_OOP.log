@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453,30): error C2375: getch: переопределение; другое связывание
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459,30): error C2375: kbhit: переопределение; другое связывание
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(282): message : см. объявление "kbhit"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(102,3): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(106,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(107,23): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(110,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(113,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(116,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(119,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(120,14): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(121,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(122,17): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(123,18): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(124,14): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(125,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(128,13): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(129,21): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(130,14): error C2065: getch: необъявленный идентификатор
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(102,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(106,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(107,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(110,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(113,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(116,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(119,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(120,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(121,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(122,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(123,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(124,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(125,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(128,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(129,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"
+C:\Users\Вася\source\repos\lab2_OOP\lab2_OOP\Source.cpp(130,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\graphics.h(281): message : см. объявление "getch"

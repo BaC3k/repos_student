@@ -1,0 +1,19 @@
+﻿  lab2v2_OOP.cpp
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(95,32): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(102,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вася\source\repos\lab2v2_OOP\lab2v2_OOP\lab2v2_OOP.cpp(102,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "closegraph"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "setbkcolor"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "putpixel"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "bar"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "getbkcolor"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "setcolor"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "initgraph"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "grapherrormsg"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "line"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "getmaxx"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "getmaxy"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "graphresult"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "ellipse"
+lab2v2_OOP.obj : error LNK2001: неразрешенный внешний символ "getcolor"
+C:\Users\Вася\source\repos\lab2v2_OOP\x64\Release\lab2v2_OOP.exe : fatal error LNK1120: неразрешенных внешних элементов: 14

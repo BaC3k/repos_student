@@ -1,0 +1,1 @@
+cmd_/home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/Module.symvers := sed 's/\.ko$$/\.o/' /home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/modules.order | scripts/mod/modpost -m -a  -o /home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/lab1_2.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/lab1_2.ko /home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/lab1_2.o /home/bac3k/Загрузки/lab1/Drivers_Lab_1-master/lab1_2.mod.o;  true
